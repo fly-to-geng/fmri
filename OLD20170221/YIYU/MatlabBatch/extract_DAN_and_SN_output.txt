@@ -1,0 +1,3731 @@
+extract AN processing  sub1001...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1002...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1003...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1004...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1005...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1006...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1007...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1008...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1009...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1011...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1012...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1013...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1014...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1015...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1016...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1017...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1018...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1019...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1020...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1021...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1022...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1023...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1024...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1025...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1026...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1028...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1030...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1031...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1032...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1033...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1034...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1036...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1037...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1038...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1039...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1040...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1041...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1043...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1044...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1046...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1047...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1048...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1049...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1050...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1051...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1052...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract AN processing  sub1053...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_dACC_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_dACC_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_lAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_lAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_RAI_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_RAI_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1001...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1001\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1002...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1002\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1003...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1003\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1004...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1004\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1005...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1005\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1006...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1006\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1007...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1007\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1008...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1008\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1009...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1009\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1011...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1011\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1012...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1012\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1013...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1013\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1014...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1014\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1015...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1015\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1016...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1016\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1017...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1017\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1018...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1018\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1019...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1019\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1020...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1020\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1021...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1021\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1022...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1022\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1023...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1023\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1024...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1024\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1025...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1025\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1026...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+extract DAN processing  sub1026...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1026\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1028...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1028\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1030...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1030\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1031...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1031\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1032...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1032\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1033...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1033\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1034...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1034\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1036...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1036\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1037...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1037\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1038...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1038\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1039...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1039\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1040...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1040\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1041...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1041\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1043...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1043\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1044...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1044\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1046...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1046\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1047...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1047\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1048...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1048\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1049...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1049\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1050...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1050\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1051...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1051\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1052...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1052\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+extract DAN processing  sub1053...
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_lFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_lFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_rFEF_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_rFEF_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_lSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_lSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
+
+
+------------------------------------------------------------------------
+Running job #1
+------------------------------------------------------------------------
+Running 'Volume of Interest'
+   VOI saved as <a href="matlab:spm_regions('display','D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_rSPL_1.mat');">D:\FMRI_ROOT\YIYU\first_level\sub1053\VOI_rSPL_1.mat</a>
+Done    'Volume of Interest'
+Done
+
+extract regions successful !
